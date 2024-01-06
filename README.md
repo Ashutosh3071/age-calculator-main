@@ -1,1 +1,3 @@
-# age-calculator-main
+# OUTPUT ------------->>>>
+ 
+  ![Screenshot](calculator.gif)
